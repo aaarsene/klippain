@@ -73,6 +73,7 @@ Here is a list of all the "Frix-x names" available to use in your own board_pins
 For more information on the boards and pinouts, please see directly the manufacturers website or github:
   - [BTT Octopus](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0)
   - [Fystec Spiders](https://github.com/FYSETC/FYSETC-SPIDER)
+  - [BTT SKR 1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.3)
   - [BTT SKR 1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4)
   - [BTT Manta 8P](https://github.com/bigtreetech/Manta-M8P)
   - [Fly SHT](https://mellow.klipper.cn/#/board/fly_sht36_42/)
